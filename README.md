@@ -1,5 +1,5 @@
 ### Date created
-06/12/2019
+6th December 2019
 
 ### Project Title
 Bikeshare Data Summariser
