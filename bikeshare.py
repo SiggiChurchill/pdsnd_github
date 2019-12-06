@@ -45,10 +45,7 @@ Hello! Let's explore some US bikeshare data!
                          "New York City(nyc) or Washington(wtn): ")).lower()
         if city == 'exit':
             while city =='exit':
-                try:
-                    sys.exit()
-                except: 
-                    print("Exiting program.")
+                sys.exit()
         if city not in valid_cities:
             print("That's not a valid selection! Please check and try again.")
         # adjust city name to full name if abbreviation was entered
