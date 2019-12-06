@@ -31,8 +31,7 @@ def get_filters():
                    Y8b d88P                    
                     "Y88P"                     
              
-Hello! Let's explore some US bikeshare data!
-
+Bikeshare Data Summary Tool
 """)
     
     
